@@ -1,0 +1,7 @@
+matplotlib
+numpy
+pandas
+persim
+ripser
+scikit-learn
+scipy
